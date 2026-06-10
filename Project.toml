@@ -1,0 +1,18 @@
+name = "pocl_next_jll"
+uuid = "59abdad9-3cfc-5436-8271-411e8cad6b82"
+version = "7.2.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+OpenCL_Headers_jll = "a7aa756b-2b7f-562a-9e9d-e94076c5c8ee"
+OpenCL_jll = "6cb37087-e8b6-5417-8430-1f242f1e46e4"
+Hwloc_jll = "e33a78d0-f292-5ffc-b300-72abe9b543c8"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.6"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
