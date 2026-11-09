@@ -1,155 +1,155 @@
 [[pocl_next]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "208a93b4f9075bfb229554f8600677140813f76f"
+git-tree-sha1 = "8e18fe1db6051895dd18aa6d682a076bc3714741"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "272eb2acb6a35c997c280e11bc9004670c85902f96ad244a66cfb224920034f3"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "0bd4f1f83a31f4d3c67845c5b7997d04b2806237dca130b797d07f9aefc1fa9b"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.i686-linux-gnu-cxx11.tar.gz"
 [[pocl_next]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "266e70d5cd945e57d83f29c95b81b3157fa70cf6"
+git-tree-sha1 = "1c39b09128afc7e69ae7b49b99ae7e997b5da81b"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "d9aab58e90aeddfdcd64d630182ad412bc6858c2445a9efc256161ca2d151e3b"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e04b78d273aafee6bf43a1a56306cd0cc63be10a0d3e0b7dba87bb8fca56a657"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.x86_64-linux-gnu-cxx11.tar.gz"
 [[pocl_next]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7fb1652ab986b3eba04ed5c4e37ef1fddc43a79e"
+git-tree-sha1 = "54eba58b977a82263dc14375367109c4c47e3686"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "04de92708b1240dbd6ebb3590af6942aeda71e9b45d63e63a05e6e3a1fa4f32a"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "799aac7740fc9bbdee270fd940bf03475b310480281df7481011df7f1a7136cc"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.aarch64-linux-gnu-cxx11.tar.gz"
 [[pocl_next]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c9521666accc9e6f3db6253b40103ff4a81df59"
+git-tree-sha1 = "a72a33c4e6124e5a668f09a179b1cbf03f97e029"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "32bca67c8cbe21b3c48d0acc5ad77f60da085d1a6771e8581dd9549de0671e59"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "9912e8a12004af3530e3cb1fa37ffea5a3c9613fc148c88674f5da40e6941233"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[pocl_next]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4419208bcadf45541fe82e9ed05597ffa8e2a7bb"
+git-tree-sha1 = "295ca37bf931f9918ffcb5bff6feaa4593f259f0"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "9ed6dd87bad788ec52c79f7894352176d4e599b89906e2a2b3beb29c98cb5ee0"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "e8cb6df0474ac8d32c26843cc61e1f4be4e9655631e8698c00a18da6e9273616"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[pocl_next]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "862f4ac71c9db54567308cd261701c6b5700e25e"
+git-tree-sha1 = "a2b811f08e4be703995038224434e5a512412fb5"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "cab832fb1a7036cd315f8f532f31e7c8cd3242688c747c64fbe715123674be04"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "274c17ffcf0989cbecdd17fad11963727fba148b32ce736fa6b67f29dd59270b"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[pocl_next]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a64d8cb93fd5bcc890fe3bb590800d0926fa7cd7"
+git-tree-sha1 = "f9689802cebcecf21b07382f9dd3df05200799d5"
 libc = "glibc"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "a68a03d41a55eef3e192e4f480d95704434d770e1dd8d64308b4620a42d9367a"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7358946ada06a82fcc221ea5717475311d56ae05dcba3fa3dbf668984766e4c4"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.riscv64-linux-gnu-cxx11.tar.gz"
 [[pocl_next]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "28b84e50374359075e92d7e86376c767e1357ae1"
+git-tree-sha1 = "40071eade7db9f436a52f9b91f93f2eb9918615f"
 libc = "musl"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "6c575e4f729d850e411d27866b3a8c81c533314777bec5c7261bfa7827048311"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "412bb3228e1f1f8a4ebf5bd2469c5efc03e213d5a5fbb0363e1969018367931b"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.x86_64-linux-musl-cxx11.tar.gz"
 [[pocl_next]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c442e1ea1ad7ab9edee34c7792ec7cefe12f23ac"
+git-tree-sha1 = "a37b511ec1e0dd3b6d45cfea4d61a582012b8108"
 libc = "musl"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "03cc2f3f6f630f0af2ecf95fc28e9940ad50a1267f16c52f239147aee0188471"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "f72b57c8398fb6bb3ca0ea7392eb722ec8b325bd710cefd82951abc8b6c8f2e2"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.aarch64-linux-musl-cxx11.tar.gz"
 [[pocl_next]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e73f51d1661bcb56f381e557f8a8e777f71f046"
+git-tree-sha1 = "e7b8214944962e463d323faa9222b763274fc9a3"
 libc = "musl"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "df7efda0658b65d20d165ea2faf5230e70a53363ea35dcd048820998e64e0dfb"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "599eab639b89e58d0fc067cc11f2795ca59a7f73fc09b16169577e4ebcf3a91a"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[pocl_next]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d1b4bc63be3319cc67c578ec088600db5e218fd4"
+git-tree-sha1 = "644e64e075effd63c60c93e21be257b09a5a0504"
 libc = "musl"
 os = "linux"
 
     [[pocl_next.download]]
-    sha256 = "11aded8542dbde4c57ac5e84611286706436d310e279f1189ad69c1e605377e3"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "70ebd0d7dc0197f28fd051a77e46326f2945c15cd82a6a3cbe2506f26facfbfa"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[pocl_next]]
 arch = "x86_64"
-git-tree-sha1 = "8d803811526bf8b6f493e28c1bc34fa91024130d"
+git-tree-sha1 = "8fa5d7e9b2241f7aa85f96436c33f46ad2b5dba2"
 os = "macos"
 
     [[pocl_next.download]]
-    sha256 = "57134cb3edd38152905080f8e9258a23a1691f6e8100da7a7d8b1c6087c78aa4"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "5b0c359c485b8eb2da62853301d33deaafb213366fcd678387a59117cd43b533"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.x86_64-apple-darwin.tar.gz"
 [[pocl_next]]
 arch = "aarch64"
-git-tree-sha1 = "6f33a453cbff2113da204674e67828bc616a0892"
+git-tree-sha1 = "ea88c221df91ce42393a2a3aed5ddd7b3e2a5fa5"
 os = "macos"
 
     [[pocl_next.download]]
-    sha256 = "553829a995f37ca902ed2ced391452a6a9f2deeceae6ef24b05624a5b0d6e147"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "4cd5e7054082cfa117363555d461b75bb0c433910ec1bc1505fcc4e87d8225a4"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.aarch64-apple-darwin.tar.gz"
 [[pocl_next]]
 arch = "x86_64"
-git-tree-sha1 = "ca36b8de745ea3d101ffab7cea82b57f56078d3b"
+git-tree-sha1 = "340a0baeeec3c0297318e0542884b925803546cc"
 os = "freebsd"
 
     [[pocl_next.download]]
-    sha256 = "6ca38fcaf065959b06fc6baa3fa94888d38069ee6b08c2810baca338d1ea4662"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "9433aef9eba87f34e068813a69304ef6e07526250f4b694a9b3481717d0d7158"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.x86_64-unknown-freebsd.tar.gz"
 [[pocl_next]]
 arch = "aarch64"
-git-tree-sha1 = "e08cf293a1e7c36ca919f43f3525b37ddd37ec3f"
+git-tree-sha1 = "316971996019b4295891f20623f656289b6c1c6c"
 os = "freebsd"
 
     [[pocl_next.download]]
-    sha256 = "11f0513b5f95c3a5e7bbd7858ae8f1f1e8209c7e71ef2a8016bda33780e5af41"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "c20c5e9a5418231a0076dce1362f775684bb82583cc1684436ebbdf2d4c7402c"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.aarch64-unknown-freebsd.tar.gz"
 [[pocl_next]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "192ff2874de8ede605b60c173960d8989432f1a5"
+git-tree-sha1 = "313891c51c0d87dd4096893446374edf46b3e2d3"
 os = "windows"
 
     [[pocl_next.download]]
-    sha256 = "d583e70690f132759429c5f341ee53a61e6525e543e5bbe3ba9035d96c0c2166"
-    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+9/pocl_next.v7.2.3.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "461fb9f7a156dac9b5d5e1d7937d0805a0ee4427522e31d62f6ad26811955e32"
+    url = "https://github.com/JuliaBinaryWrappers/pocl_next_jll.jl/releases/download/pocl_next-v7.2.3+10/pocl_next.v7.2.3.x86_64-w64-mingw32-cxx11.tar.gz"
